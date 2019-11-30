@@ -216,6 +216,32 @@ body, html {
     transform: scale(0.9);
 }
 
+/*------------------------------------------------Reviews*/
+
+.wrapper {
+    background-color: #01111d;
+}
+
+.review-one,
+.review-two {
+    color: #fff;
+    padding: 20% 5% 0;
+    text-align: center;
+}
+ 
+.review {
+    margin: 0;
+    letter-spacing: 2px;
+    color: #fff;
+}
+
+.name {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+
+
 /*------------------------------------------------Footer*/
 
 .container-fluid {
@@ -266,5 +292,25 @@ body, html {
     .gallery {
         width: 500px;
         height: auto;
+    }
+    
+    .review-one {
+        text-align: left;
+    }
+
+    .review-two {
+        text-align: right;
+    }
+
+    .review-one,
+    .review-two {
+        padding: 10%;
+    }
+}
+
+@media (min-width: 1296px) {
+    .review-one,
+    .review-two {
+        padding: 5%;
     }
 }
