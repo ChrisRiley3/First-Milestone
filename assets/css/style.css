@@ -156,6 +156,7 @@ body, html {
     text-align: center;
     font-style: italic;
     font-size: 2rem;
+    text-transform: capitalize;
     font-family: "Gill Sans Nova Cond";
 }
  
