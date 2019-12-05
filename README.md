@@ -14,7 +14,7 @@ This project uses skills i have learnt throughout the course so far to create a 
 
 * The majorities of users visiting the website will be looking at pricing. The pricing page is designed is a chronological order so that the first package is the most expensive and they decrease in price as you move further down the page. 
 
-To view my UXD please navigate over to my UXD directory. There you can view my strategy, scope, structure and skeleton plane. 
+To view my UXD please navigate over to my UXD directory. There you can view my strategy, scope, structure and skeleton plane. [https://github.com/ChrisRiley3/First-Milestone/tree/master/user-design-experience]
 
 # Features
 
@@ -32,7 +32,7 @@ To view my UXD please navigate over to my UXD directory. There you can view my s
 
 ### Future Features 
 
-* More catogories will added to the portfolio dropdown e.g. charity events, christening's, portraits, landscape prints, commercial work and video
+* More categories will added to the portfolio dropdown e.g. charity events, christening's, portraits, landscape prints, commercial work and video
 
 * A FAQ page will be added to the navigation bar, this will display frequently asked questions so the users may find quick answers to their questions that other users have previously asked before 
 
